@@ -18,6 +18,6 @@ services:
       - '80:80'
       - '443:443'
     volumes:
-      - /home/ec2-user/caddy/Caddyfile:/etc/caddy/Caddyfile
-      - /home/ec2-user/caddy/data:/data
-      - /home/ec2-user/caddy/config:/config
+      - /home/ubuntu/caddy/Caddyfile:/etc/caddy/Caddyfile
+      - /home/ubuntu/caddy/data:/data
+      - /home/ubuntu/caddy/config:/config
