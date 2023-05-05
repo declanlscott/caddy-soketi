@@ -16,7 +16,7 @@ Before we get started you should already have an AWS account. If you don't, you 
 
 - AMI: Ubuntu Server 22.04 LTS (HVM), SSD Volume Type
   - Architecture: 64-bit (Arm)
-- Instance Type: t4g.nano (You can use a bigger instance if you want)
+- Instance Type: t4g.nano (You can use a bigger instance if you want or upgrade later)
 - Key pair (login)
   - Create a new key pair and download it to a safe place. You will need it to ssh into your instance. I named mine `caddy-soketi`.
 - Network settings
