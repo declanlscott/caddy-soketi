@@ -1,4 +1,4 @@
-# [Soketi](https://soketi.app/) with [Caddy](https://soketi.app/) on [EC2](https://aws.amazon.com/ec2/)
+# [Soketi](https://soketi.app/) with [Caddy](https://caddyserver.com) on [EC2](https://aws.amazon.com/ec2/)
 
 <br />
 <div align='center'>
